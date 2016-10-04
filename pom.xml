@@ -4,7 +4,7 @@
 
     <groupId>maven.sample</groupId>
     <artifactId>sample</artifactId>
-    <version>1.5</version>
+    <version>1.6-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:git@github.com:mgovorischev/maven-sample.git</connection>
