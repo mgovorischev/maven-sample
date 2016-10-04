@@ -12,6 +12,14 @@
         <url>https://github.com/mgovorischev/maven-sample</url>
     </scm>
 
+    <distributionManagement>
+        <repository>
+            <id>maven.sample</id>
+            <name>maven.sample</name>
+            <url>file:///home/artifatcory</url>
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
