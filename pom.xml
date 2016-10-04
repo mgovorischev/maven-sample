@@ -12,7 +12,6 @@
         <connection>scm:git:https://github.com/mgovorischev/maven-sample</connection>
         <developerConnection>scm:git:https://github.com/mgovorischev/maven-sample</developerConnection>
         <url>https://github.com/mgovorischev/maven-sample</url>
-        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
