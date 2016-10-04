@@ -14,6 +14,14 @@
         <url>https://github.com/mgovorischev/maven-sample</url>
     </scm>
 
+    <distributionManagement>
+        <repository>
+            <id>maven-sample</id>
+            <name>maven-sample</name>
+            <url>http://localhost:8080/artifacts</url>
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
